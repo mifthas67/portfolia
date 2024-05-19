@@ -3,6 +3,17 @@ body{
     font-family: "Young Serif", serif;
 }
 
+*{
+
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+
+    padding: 10px;
+
+}
 
 
 .section-one{
@@ -16,10 +27,86 @@ body{
 .section-one_name{
 
     color: white;
+    font-size: 40px;
 
 }
+.section-one_role{
+    font-size: 30px;
+    margin-top: 10px;
+    padding-bottom: 20px;
+    
+}
+
+
 .section-one_contact{
 
     background-color: yellow;
+    text-decoration: none;
+    padding-top:5px ;
+    padding-bottom: 5px;
+    margin-top: 20px;
+
+}
+
+.section-two{
+
+ margin-top: 20px;
+
+}
+
+.section-three{
+
+    background-color: #6462fd;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 20px;
+    display: inline-block;
+
+
+    
+}
+
+li{
+
+list-style: none;
+
+}
+
+.section-four{
+
+background-color: orange;
+border-radius: 10px;
+margin-top: 10px;
+display:inline-block;
+
+
+
+}
+
+.section-four_sub_title{
+
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    
+}
+
+
+
+
+
+.section-five{
+
+    background-color: black;
+    margin: 10px;
+    padding-right: 0%;
+}
+
+.section-five_title,.section-five_auth{
+
+    color: white;
+
+
 
 }
