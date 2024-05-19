@@ -1,0 +1,25 @@
+body{
+
+    font-family: "Young Serif", serif;
+}
+
+
+
+.section-one{
+
+        background-color: black;
+        color: white;
+        padding: 20px;
+
+}
+
+.section-one_name{
+
+    color: white;
+
+}
+.section-one_contact{
+
+    background-color: yellow;
+
+}
